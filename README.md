@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi there, I’m Ayush Aote
 
-<!--
-**Ayushaote/Ayushaote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 B.Tech | ML Enthusiast | Slightly obsessed with caffeine and convolutions  
+🤖 Currently building machines that try to think (and occasionally succeed)  
+📈 Interested in finance, AI, and making plots that look more complex than they are  
+🛠️ Final Year Project: Teaching machines to spot organs during surgery so doctors don’t have to play “Guess Who”  
+🧪 IEEE intern trying to detect schizophrenia using EEGs — so yeah, I read brainwaves now  
+🎯 Trying to impress recruiters, researchers, and probably aliens with my side projects  
+🏁 F1 fan | ⚽ Football fan | 🎧 Sad music enthusiast (Cigarettes After Sex supremacy)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 Reach me before I disappear into another deep learning paper:  
+📧 ayushaote2002@gmail.com  
+🌐 [ayushaote.github.io](https://ayushaote.github.io) *(Coming soon... probably... maybe... hopefully)*
