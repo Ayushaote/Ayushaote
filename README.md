@@ -9,4 +9,4 @@ Trying to impress recruiters, researchers
 
 📬 Reach me before I disappear into another deep learning paper:  
 📧 ayushaote2002@gmail.com  
-🌐 [ayushaote.github.io](https://ayushaote.github.io) *(Coming soon... probably... maybe... hopefully)*
+
